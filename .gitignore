@@ -1,5 +1,5 @@
 .vscode/
 __pycache__/
-instance/
+data.db
 *.py_c
 .DS_Store
