@@ -1,0 +1,5 @@
+.vscode/
+__pycache__/
+instance/
+*.py_c
+.DS_Store
